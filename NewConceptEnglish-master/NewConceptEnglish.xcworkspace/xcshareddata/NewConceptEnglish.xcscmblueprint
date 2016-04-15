@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6875AE4B9216A48E84A2E9EA7CF05823357DF66A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5BFC9964E9160626338E5B6FF4D6AE765A089288" : 0,
+    "6875AE4B9216A48E84A2E9EA7CF05823357DF66A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "368FC1AB-26B2-4949-8D8A-4B1BC724814E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5BFC9964E9160626338E5B6FF4D6AE765A089288" : "..\/Downloads\/yangshuo\/New",
+    "6875AE4B9216A48E84A2E9EA7CF05823357DF66A" : "NewConceptEnglish\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NewConceptEnglish",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NewConceptEnglish.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/410900345\/xingainian.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5BFC9964E9160626338E5B6FF4D6AE765A089288"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/410900345\/NewConceptEnglish.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6875AE4B9216A48E84A2E9EA7CF05823357DF66A"
+    }
+  ]
+}

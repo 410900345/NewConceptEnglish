@@ -1,0 +1,65 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BmobSDK (1.6.8)
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.7)
+  - FDFullscreenPopGesture (1.1)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - Masonry (1.0.0)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.0)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - TTTAttributedLabel (1.13.4)
+  - UMengAnalytics (3.5.16)
+  - YYModel (1.0.1)
+
+DEPENDENCIES:
+  - BlocksKit (~> 2.2.5)
+  - BmobSDK (~> 1.6.8)
+  - Crashlytics (~> 3.7.0)
+  - Fabric (~> 1.6.7)
+  - FDFullscreenPopGesture (~> 1.1)
+  - FMDB (~> 2.6.2)
+  - Masonry (~> 1.0.0)
+  - MBProgressHUD (~> 0.9.2)
+  - MJRefresh (~> 3.1.0)
+  - SDWebImage (~> 3.7.5)
+  - TTTAttributedLabel (~> 1.13.4)
+  - UMengAnalytics (~> 3.5.10)
+  - YYModel (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  BmobSDK: 8fd02a7bb29ec290c5d37625169abbdb1c87c677
+  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  TTTAttributedLabel: 0a2ac7b2dd726d32a070dafb01446026b11e624f
+  UMengAnalytics: fdf0c0a8c07d8bffc012ffa3c68e5d490af42098
+  YYModel: 794f0820a9a9703615bc166aa8e336abaf422c2b
+
+COCOAPODS: 0.39.0
